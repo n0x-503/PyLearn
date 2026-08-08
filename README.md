@@ -1,31 +1,108 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+
+
+# 🐍 Python Projects
+
+### 💻 Estudos • Projetos • Lógica • Desenvolvimento
+
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="left">Sobre os projetos:</h1>
+<div align="center">
 
-###
+## 📚 Sobre os Projetos
 
-<p data-importer="text" align="left">Este repositório reúne projetos desenvolvidos durante cerca de um ano de estudos. Os projetos exploram diferentes conceitos de programação, como orientação a objetos, manipulação de listas e strings, criação de funções, manipulação de json, criptografia básica, além de outros fundamentos importantes para o desenvolvimento de software.</p>
-
-###
-
-<h2 data-importer="text" align="left">Ferramentas usadas:</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
+Este repositório reúne **projetos desenvolvidos ao longo de aproximadamente um ano de estudos em programação**.
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxYTVsb2x0ZjV6Z3Q3NjlreGQ2ZmtudHo5eHBtdjFza3BnM3hlYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"  />
+Os projetos foram criados com o objetivo de colocar em prática diferentes conceitos da linguagem **Python**, explorando desde fundamentos da programação até conceitos mais avançados.
+
+Durante esse período, foram trabalhados diversos temas, incluindo:
+
+- 🧠 Lógica de programação
+- 🏗️ Programação Orientada a Objetos
+- 📋 Manipulação de listas
+- 🔤 Manipulação de strings
+- ⚙️ Criação e utilização de funções
+- 📦 Manipulação de arquivos e dados
+- 🗂️ Estruturas de dados
+- 🔐 Criptografia básica
+- 📄 Manipulação de JSON
+- 🛠️ Desenvolvimento de pequenos sistemas
+- 🧩 Resolução de problemas
+
+> 🚀 Cada projeto representa uma etapa do aprendizado e da evolução durante os estudos.
+
+---
+
+<div align="center">
+
+## 🛠️ Ferramentas e Tecnologias
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" alt="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="55" alt="PyCharm" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="55" alt="JSON" />
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      🐍<br>
+      <strong>Python</strong><br>
+      <sub>Linguagem principal</sub>
+    </td>
+    <td align="center" width="180">
+      🧠<br>
+      <strong>PyCharm</strong><br>
+      <sub>IDE de desenvolvimento</sub>
+    </td>
+    <td align="center" width="180">
+      📄<br>
+      <strong>JSON</strong><br>
+      <sub>Manipulação de dados</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+## 🧩 Conteúdos Estudados
+
+</div>
+
+```text
+🐍 Python
+│
+├── 🧠 Lógica de Programação
+│
+├── 📦 Variáveis e Tipos de Dados
+│
+├── 🔀 Estruturas Condicionais
+│
+├── 🔄 Estruturas de Repetição
+│
+├── 📋 Listas e Coleções
+│
+├── 🔤 Strings
+│
+├── ⚙️ Funções
+│
+├── 🏗️ Programação Orientada a Objetos
+│
+├── 📄 JSON
+│
+├── 🔐 Criptografia Básica
+│
+└── 🛠️ Desenvolvimento de Projetos
