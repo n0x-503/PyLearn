@@ -1,10 +1,8 @@
 <div align="center">
 
+# Python Projects
 
-
-# 🐍 Python Projects
-
-### 💻 Estudos • Projetos • Lógica • Desenvolvimento
+### Estudos • Projetos • Lógica • Desenvolvimento
 
 </div>
 
@@ -12,35 +10,35 @@
 
 <div align="center">
 
-## 📚 Sobre os Projetos
+## Sobre os Projetos
 
 </div>
 
 Este repositório reúne **projetos desenvolvidos ao longo de aproximadamente um ano de estudos em programação**.
 
-Os projetos foram criados com o objetivo de colocar em prática diferentes conceitos da linguagem **Python**, explorando desde fundamentos da programação até conceitos mais avançados.
+Os projetos foram desenvolvidos com o objetivo de colocar em prática diferentes conceitos da linguagem **Python**, explorando desde os fundamentos da programação até conceitos mais avançados.
 
-Durante esse período, foram trabalhados diversos temas, incluindo:
+Durante esse período, foram estudados e aplicados diversos conceitos, incluindo:
 
-- 🧠 Lógica de programação
-- 🏗️ Programação Orientada a Objetos
-- 📋 Manipulação de listas
-- 🔤 Manipulação de strings
-- ⚙️ Criação e utilização de funções
-- 📦 Manipulação de arquivos e dados
-- 🗂️ Estruturas de dados
-- 🔐 Criptografia básica
-- 📄 Manipulação de JSON
-- 🛠️ Desenvolvimento de pequenos sistemas
-- 🧩 Resolução de problemas
+- Lógica de programação
+- Programação Orientada a Objetos
+- Manipulação de listas
+- Manipulação de strings
+- Criação e utilização de funções
+- Manipulação de arquivos e dados
+- Estruturas de dados
+- Criptografia básica
+- Manipulação de JSON
+- Desenvolvimento de pequenos sistemas
+- Resolução de problemas
 
-> 🚀 Cada projeto representa uma etapa do aprendizado e da evolução durante os estudos.
+> Cada projeto representa uma etapa do processo de aprendizado e evolução durante os estudos.
 
 ---
 
 <div align="center">
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <br>
 
@@ -55,17 +53,14 @@ Durante esse período, foram trabalhados diversos temas, incluindo:
 <table>
   <tr>
     <td align="center" width="180">
-      🐍<br>
       <strong>Python</strong><br>
       <sub>Linguagem principal</sub>
     </td>
     <td align="center" width="180">
-      🧠<br>
       <strong>PyCharm</strong><br>
       <sub>IDE de desenvolvimento</sub>
     </td>
     <td align="center" width="180">
-      📄<br>
       <strong>JSON</strong><br>
       <sub>Manipulação de dados</sub>
     </td>
@@ -78,31 +73,31 @@ Durante esse período, foram trabalhados diversos temas, incluindo:
 
 <div align="center">
 
-## 🧩 Conteúdos Estudados
+## Conteúdos Estudados
 
 </div>
 
 ```text
-🐍 Python
+Python
 │
-├── 🧠 Lógica de Programação
+├── Lógica de Programação
 │
-├── 📦 Variáveis e Tipos de Dados
+├── Variáveis e Tipos de Dados
 │
-├── 🔀 Estruturas Condicionais
+├── Estruturas Condicionais
 │
-├── 🔄 Estruturas de Repetição
+├── Estruturas de Repetição
 │
-├── 📋 Listas e Coleções
+├── Listas e Coleções
 │
-├── 🔤 Strings
+├── Strings
 │
-├── ⚙️ Funções
+├── Funções
 │
-├── 🏗️ Programação Orientada a Objetos
+├── Programação Orientada a Objetos
 │
-├── 📄 JSON
+├── JSON
 │
-├── 🔐 Criptografia Básica
+├── Criptografia Básica
 │
-└── 🛠️ Desenvolvimento de Projetos
+└── Desenvolvimento de Projetos
